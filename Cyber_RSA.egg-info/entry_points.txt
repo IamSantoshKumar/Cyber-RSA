@@ -1,0 +1,3 @@
+[console_scripts]
+Cyber-RSA = CyberRSA.Cipher:main
+
